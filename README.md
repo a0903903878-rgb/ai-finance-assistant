@@ -2,7 +2,7 @@
 
 > 輸入每月收支，AI 自動生成消費分析與省錢建議
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-19-61dafb.svg)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg)]()
 [![Vite](https://img.shields.io/badge/Vite-6-646cff.svg)]()
@@ -98,4 +98,6 @@ shared/
 
 ## 📄 License
 
-本專案採用 [MIT License](LICENSE)。
+本專案採用 [Apache License 2.0](LICENSE)。
+
+使用、修改與散佈本專案時，請遵守 Apache 2.0 條款：保留原始版權聲明、標示檔案變更，並附上授權條款副本。
